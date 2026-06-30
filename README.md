@@ -24,4 +24,4 @@ Innovative digital designer skilled in Figma, Canva, and front-end technologies 
 
 ## 📫 Connect With Me
 * 📧 **Email:** ananyaa.udas@gmail.com
-* 💼 **LinkedIn:** [Ananyaa Udas] (https://www.linkedin.com/in/ananyaa-udas/)
+* 💼 **LinkedIn:** [Ananyaa Udas](https://www.linkedin.com/in/ananyaa-udas/)
